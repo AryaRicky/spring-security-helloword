@@ -1,0 +1,2 @@
+1.spring boot 整合spring security
+2.所有地址和资源访问受限，需要使用spring security默认用户登陆才能
